@@ -4,7 +4,9 @@ Hi 👋 My name is Lukas
 C# Developer
 ------------
 
-Paramedic by day and developer by night.* 🌍  I'm based in Austria
+Paramedic by day and developer by night.
+
+* 🌍  I'm based in Austria
 
 ### Skills
 
