@@ -2,10 +2,6 @@
 
 ## C# Developer
 
-Paramedic by day and developer by night.
-
-- 🌍  I'm based in Austria
-
 ### Skills
 
 <p align="left">
